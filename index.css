@@ -1,0 +1,24 @@
+img{
+	border-radius: 50%;
+	margin-right: 10px; 
+	width: 250px;
+	height: 250px;
+}
+#para{
+	margin-top: 10px;
+	margin-top: 10px; 
+	text-indent: 3ex; 
+}
+#address{
+	margin-top: 10px; 
+	text-indent: 3ex;
+}
+#class{
+	margin-top : -2px;
+	text-indent: 4em;
+}
+#Cer{
+	margin-top: 10px;
+	margin-bottom : 10px;
+	text-indent: 1.5em;
+}

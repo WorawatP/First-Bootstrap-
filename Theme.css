@@ -1,0 +1,110 @@
+body{
+	background: grey;
+}
+#container{
+	margin: 0 auto;
+	width: 1200px;
+	height: 1200px;
+	border: 1px solid black;
+}
+header{
+	width: 420px;
+	height: 1200px;
+	border:  1px solid black;
+	background: #000000
+}
+#testcolor{
+	margin-top: 0px;
+	color: GhostWhite ;
+	font-size: 30px;
+	text-indent: 0.5em;
+	text-decoration: underline;
+}
+#img{
+	border-radius: 50%;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	margin-left: 30px;
+	width: 350px;
+	height: 350px;
+}
+#textprofile{
+	color: GhostWhite ;
+	font-size: 20px;
+	margin-left: 15px;
+}
+#class2{
+	color: GhostWhite ;
+	font-size: 20px;
+	margin-left: 15px;
+	margin-top : 0px;
+	text-indent: 4em;
+}
+#address{
+	color: GhostWhite ;
+	font-size: 20px;
+	margin-left: 15px;
+	margin-top : -10px;
+}
+nav{
+	float: right;
+	width: 778px;
+	height: 200px;
+	border:  1px solid black;
+	background: White;
+}
+#name{
+	margin-top:   10px;
+    padding: 35px;
+	font-size: 50px;
+	color: MediumBlue ;
+}
+#Position{
+	margin-top : -50px;
+	text-indent: 1.5em;
+	font-size: 200%;
+	font-family:  “Times New Roman”, Times, sans-serif;
+}
+article{
+	float: right;
+	width: 778px;
+	height: 998px;
+	border:  1px solid black;
+	background: White;
+}
+#Edu{
+	text-indent: 1.5em;
+	font-size: 30px;
+	color: CornflowerBlue ;
+}
+#Hs{
+	margin-top : -10px;
+	text-indent: 2em;
+	font-size: 25px; 
+}
+#School{
+	margin-top : -10px;
+	text-indent: 2em;
+	font-size: 25px;
+	color: CornflowerBlue ;
+	text-decoration: underline;
+}
+#class{
+	margin-top : 0px;
+	text-indent: 4em;
+	font-size: 25px;
+}
+#Uni{
+	margin-top : 10px;
+	text-indent: 2em;
+	font-size: 25px; 
+}
+#Cer{
+	margin-bottom : 10px;
+	text-indent: 1.5em;
+	font-size: 30px;
+	color: CornflowerBlue ;	
+}
+footer{
+	text-align: center;
+}
